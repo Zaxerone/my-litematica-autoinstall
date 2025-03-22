@@ -1,5 +1,5 @@
 # Litematica Auto Install (NON OFFICIAL)
-
+Install litematica for Minecraft 1.20.4 automatically
 ## Method 1
 Open PowerShell and enter :
 
