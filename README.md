@@ -17,4 +17,4 @@ Select what you need you need and that's it!
 Select what you need you need and that's it!
 
 ## Requirements
-In case it doesn't work make sure you have [Java](https://www.java.com/download/), if it's not working download [Temurin](https://adoptium.net/) instead and **make sure to check the `Set or override JAVA_HOME variable` option during installation**
+In case it doesn't work make sure you have [Java](https://www.java.com/download/), if it's not working download [Temurin LTS](https://adoptium.net/) instead and **make sure to check the `Set or override JAVA_HOME variable` option during installation**
