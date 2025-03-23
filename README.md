@@ -15,3 +15,6 @@ Select what you need you need and that's it!
 3. Right click on the file and click on `Run with PowerShell`
 
 Select what you need you need and that's it!
+
+## Requirements
+In case it doesn't work make sure you have [Java](https://www.java.com/download/), if it's not working download [Temurin](https://adoptium.net/) instead and **make sure to check the `Set or override JAVA_HOME variable` option during installation**
